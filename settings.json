@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "SchoolSMPSG.aternos.me:34069",
+    "port": 34069,
     "version": "",
     "try-creative": false
   },
